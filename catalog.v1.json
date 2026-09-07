@@ -1,0 +1,42 @@
+{
+  "$schema": "https://apps.bridgething.com/schemas/catalog/v1.json",
+  "schema": "catalog.v1",
+  "updated_at": "2026-09-07T17:29:40.068Z",
+  "repo": {
+    "name": "byd",
+    "description": "byd",
+    "homepage": "https://github.com/bydzelaya/byd-carthing",
+    "icon": null
+  },
+  "apps": [
+    {
+      "id": "01a07cd7-fd19-7065-b903-4b14eed83067",
+      "name": "byd",
+      "description": "BYD Song Pro HUD",
+      "author": "bydzelaya",
+      "icon": null,
+      "homepage": "https://github.com/bydzelaya/byd-carthing",
+      "source": "https://github.com/bydzelaya/byd-carthing",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "released_at": "2026-09-07T17:29:40.063Z",
+          "download": {
+            "url": "https://bydzelaya.github.io/byd-carthing/r/01a07cd7-fd19-7065-b903-4b14eed83067/0.1.0.zip",
+            "size": 809221,
+            "sha256": "84a893dfb8a1e910b4b619f5b0a34fac6aafd1985b1ab2574eb0d98ccf1db91c"
+          },
+          "settings": {
+            "url": "https://bydzelaya.github.io/byd-carthing/s/01a07cd7-fd19-7065-b903-4b14eed83067/0.1.0.html",
+            "size": 26909,
+            "sha256": "47dd37563bb44655ff1fbd0d837f1a173b0f1958dafeb1b432f39deb04eaed48"
+          },
+          "permissions": [],
+          "min_libbridgething_version": "0.12.1",
+          "changelog": "First release."
+        }
+      ]
+    }
+  ],
+  "recommended_sources": []
+}
