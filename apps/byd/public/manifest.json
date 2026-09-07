@@ -1,0 +1,10 @@
+{
+  "id": "01a07cd7-fd19-7065-b903-4b14eed83067",
+  "name": "byd",
+  "version": "0.1.0",
+  "description": "",
+  "settings": "settings.html",
+  "config": [],
+  "permissions": [],
+  "art": { "heroPx": 248, "thumbPx": 96 }
+}
